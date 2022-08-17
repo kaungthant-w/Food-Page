@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "vite",
-    "bulid-complie" : "tailwindcss -i ./src/main.css -o ./dist/output.css --watch"
+    "build-complie" : "tailwindcss -i ./src/main.css -o ./dist/output.css --watch"
   },
   "keywords": [],
   "author": "",
