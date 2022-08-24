@@ -1,6 +1,5 @@
 @import "tailwindcss/base";
 @import "tailwindcss/components";
-@import "tailwindcss/utilities";
 @import "./css/header.css";
 @import "./css/helper.css";
 @import "./css/nav.css";
@@ -8,3 +7,7 @@
 @import "./css/dishes.css";
 @import "./css/buttons.css";
 @import "./css/pricing.css";
+@import "./css/testimonials.css";
+@import "./css/lightbox.css";
+@import "./css/download.css";
+@import "tailwindcss/utilities";
